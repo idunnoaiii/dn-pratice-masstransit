@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "libs", "libs", "{58DA1787-2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.Message", "common\EventBus.Message\EventBus.Message.csproj", "{C64CAB25-9065-442B-AF9E-187CC043ACC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "common\Infrastructure\Infrastructure.csproj", "{78211247-09D2-43C2-8B1B-F50ADF070FD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "common\Infrastructure\Infrastructure.csproj", "{A2D4CC80-5231-4B54-A61A-DD4ECB7501C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,13 +34,13 @@ Global
 		{C64CAB25-9065-442B-AF9E-187CC043ACC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C64CAB25-9065-442B-AF9E-187CC043ACC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C64CAB25-9065-442B-AF9E-187CC043ACC2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{78211247-09D2-43C2-8B1B-F50ADF070FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{78211247-09D2-43C2-8B1B-F50ADF070FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{78211247-09D2-43C2-8B1B-F50ADF070FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{78211247-09D2-43C2-8B1B-F50ADF070FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2D4CC80-5231-4B54-A61A-DD4ECB7501C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D4CC80-5231-4B54-A61A-DD4ECB7501C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D4CC80-5231-4B54-A61A-DD4ECB7501C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D4CC80-5231-4B54-A61A-DD4ECB7501C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C64CAB25-9065-442B-AF9E-187CC043ACC2} = {58DA1787-22AC-49DF-94F8-8498ACEE449E}
-		{78211247-09D2-43C2-8B1B-F50ADF070FD1} = {58DA1787-22AC-49DF-94F8-8498ACEE449E}
+		{A2D4CC80-5231-4B54-A61A-DD4ECB7501C7} = {58DA1787-22AC-49DF-94F8-8498ACEE449E}
 	EndGlobalSection
 EndGlobal
